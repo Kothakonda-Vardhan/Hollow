@@ -2,6 +2,9 @@
 
 SmartRetail.AI is an intelligent, open-ended e-commerce platform that augments product discovery using web scraping, LLMs, and real-time data fusion. It enables users to search for products using natural language, processes product metadata, reviews, and pricing from the web, and helps users make informed purchase decisions via AI-powered comparative analysis.
 
+> 👥 _This project is a collaborative effort built with friends and driven by a shared mission to empower agricultural communities._
+
+
 ## 🔠 Features
 
 * 🔍 **Natural Language Search:** Users can type open-ended queries (e.g., *"Best laptops for coding under \$1000"*). These are tokenized and converted into key keywords using **Gemini**.
